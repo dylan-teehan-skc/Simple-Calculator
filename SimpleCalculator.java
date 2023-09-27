@@ -30,7 +30,7 @@ public class SimpleCalculator {
                 result = firstNumber - secondNumber;
                 break;
             case "*":
-                //implement multiplication
+                result = firstNumber * secondNumber;
                 break;
             case "/":
                 //implement division
